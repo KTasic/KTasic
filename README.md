@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 Daily loggin 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kennethbriangtasic-create/trials/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KTasic/KTasic/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
