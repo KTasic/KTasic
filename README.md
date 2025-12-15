@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kenneth+Tasic!;Let+me+get+this+clear;I+AM+NOT+A+PROGRAMER" />
+</h1>
 
 <!--
 **KTasic/KTasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +28,45 @@ Here are some ideas to get you started:
 </div>
 
 <hr/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KTasic/KTasic-color=blue&right_color=purple&left_text=Poor%20People%20That%20Has%20Read%20This%20GitHub%20Page" />
+
+
+
+
+<p align="center"> This is a trial github ReadMe
+
+<div align="center">
+-the guy behind the shenanigans: Kenneth Brian Tasic
+
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ3dWYxcHZ6YmQwOXBsdWV5OGdpeHl3ZHN3dzhnOW12a3BkbG0yMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif)
+
+me core.
+
+<h1 align="center">  
+</h1>
+<h3 align="center">
+  Some Things About Me
+</h3>
+<details>
+  <summary>🖥️ About Me</summary>
+    I'm and I have always been **the hardware guy**
+</details>
+
+<details>
+  <summary>📖 My Studies</summary>
+    I'm currently learning **Python & Markdown**
+</details>
+
+<details>
+  <summary>🎮 Hobbies</summary>
+    I'm also a **Gamer**... not a good one tho
+</details>
+
+<details>
+  <summary>⁉️ Hot take</summary>
+    ¯\\__(ツ)_/¯ dark mode rules; fight me(/j)
+</details>
+
+
+</div>
