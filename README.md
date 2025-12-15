@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KTasic/KTasic-color=blue&right_color=purple&left_text=Poor%20People%20That%20Has%20Read%20This%20GitHub%20Page" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KTasic/KTasic-color=blue&right_color=purple&left_text=Poor%20People%20That%20Has%20Refreshed%20This%20GitHub%20Page" />
 
 
 
