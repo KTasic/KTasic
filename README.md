@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> This is a trial github ReadMe
+#<p align="center"> This is a trial github ReadMe
 
 <div align="center">
 -the guy behind the shenanigans: Kenneth Brian Tasic
