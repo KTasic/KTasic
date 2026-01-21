@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kenneth+Tasic!;Let+me+get+this+clear;I+AM+NOT+A+PROGRAMER" />
-</h1>
 
 <!--
 **KTasic/KTasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
